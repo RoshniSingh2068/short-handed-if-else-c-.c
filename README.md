@@ -1,0 +1,1 @@
+# short-handed-if-else-c-.c
